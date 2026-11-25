@@ -2,6 +2,6 @@
 title: "Mallard Duck Movement"
 ---
 
-This is a Quarto website.
+This site explores GPS tracks from 52 mallards recorded between 2007 and 2017. Their fixes cluster around Lake Constance, in central Europe where Germany, Switzerland, and Austria meet, and extend north and east across Europe. The records are most numerous in autumn—especially September—while observed speeds tend to be higher in summer and early autumn.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The tracking data comes from the [PPBDS misc.tutorials repository](https://github.com/PPBDS/misc.tutorials/blob/main/inst/tutorials/ducks/data/mallards.csv). Explore the locations on the [Map](map.qmd), or compare monthly fix counts and speed distributions on the [Seasons](seasons.qmd) page.
